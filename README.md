@@ -1,4 +1,4 @@
-# sai
+# maven install code
 apt update -y
 apt install default-jdk -y
 apt install maven -y
